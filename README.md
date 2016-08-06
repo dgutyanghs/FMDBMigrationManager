@@ -240,3 +240,6 @@ Blake Watters
 ## License
 
 FMDBMigrationManager is available under the Apache 2 License. See the LICENSE file for more info.
+
+## Update Podfile for CocoaPods 1.1.0beta
+Cause CocoaPods 1.1.0 syntax has changed (not support keyword:link_with, xcodeproj), so the Podfile must be update!
